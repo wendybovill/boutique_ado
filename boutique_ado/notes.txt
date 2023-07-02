@@ -1,1 +1,0 @@
-ALLOWED_HOSTS = ['8000-wendybovill-boutiqueado-pcal64olykp.ws-eu101.gitpod.io']
